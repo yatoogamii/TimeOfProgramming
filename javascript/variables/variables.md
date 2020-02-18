@@ -1,3 +1,3 @@
-[![](images/mermaid.svg)
+![](images/mermaid.svg)
 
-[![](images/mermaid.png)
+![](images/mermaid.png)
