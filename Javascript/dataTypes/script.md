@@ -47,11 +47,9 @@ Javascript permet de faire de maths de manière `safe`, dans l'idée ou on peut 
 
 ### BigInt
 
-En Javascript le type Number ne peut pas represénter un nombre plus grand que `2 ** 53` ou plus petit que `-2 ** 53`, c'est un limitation technique qui arrive après 16 chiffres.
+"In JavaScript, the “number” type cannot represent integer values larger than 2 ** 53 (or less than -2 ** 53 for negatives), that’s a technical limitation caused by their internal representation. That’s about 16 decimal digits"
 
 Mais parfois on à besoin d'aller plus loin, par exemple pour de la cryptography ou des précision à la microseconde
-
-Et c'est pour ça que BigInt à été ajouté assez récement pour définir un nombre d'une taille plus élévé que 16 chiffres
 
 On crée un BigInt en ajoutant un `n` à la fin de notre nombre
 
