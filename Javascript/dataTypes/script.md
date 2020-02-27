@@ -51,8 +51,6 @@ Javascript permet de faire de maths de manière `safe`, dans l'idée ou on peut 
 
 Mais parfois on à besoin d'aller plus loin, par exemple pour de la cryptography ou des précision à la microseconde
 
-Et c'est pour ça que BigInt à été ajouté assez récement pour définir un nombre d'une taille plus élévé que 16 chiffres
-
 On crée un BigInt en ajoutant un `n` à la fin de notre nombre
 
 ### String
