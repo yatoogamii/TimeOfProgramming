@@ -7,7 +7,7 @@
 
 Bienvenue sur le repo de la chaîne youtube [Time To Program](https://www.youtube.com/channel/UC-9PyPL21WQWisquSQIqGmQ/). Ce repo contient les scripts de chaque vidéo ainsi que les exemples utilisés.
 
-Voici la liste de toute les vidéos actuellement sur la chaîne:
+Voici la liste de toutes les vidéos actuellement sur la chaîne :
 - Javascript
   - [Variables](https://youtu.be/3BftqG5KnSI)
   - [Constantes](https://youtu.be/c7dhx2SKAss)
