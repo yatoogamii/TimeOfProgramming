@@ -13,6 +13,8 @@ fn main() {
 
 Si on run le code précédent ça nous affichera: `The value of x is: 5`
 
+En revanche petit défaut des variables déclaré avec un `let` elle ne sont utilisable que dans le scope ou elle on était crée
+
 Maintenant si je veux modifier ma variable:
 
 ```rust
