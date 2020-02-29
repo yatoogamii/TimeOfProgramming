@@ -16,3 +16,4 @@ Voici la liste de toutes les vidéos actuellement sur la chaîne :
 - Rust
   - [Installation / Hello world](https://youtu.be/PTkPt57Jt_M)
   - [Cargo](https://youtu.be/sZJqS-X1hHA)
+  - [Les variables et la mutabilité](https://youtu.be/2HDpOoNF5Pc)
